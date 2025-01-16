@@ -1,6 +1,4 @@
 # Contacts-Book
-Project data structures 1
-This is Menu...
 
                                 Contacts Book Menu:
                                ------------------------
